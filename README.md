@@ -36,6 +36,8 @@ var body: some View {
 }
 ```
 
+If you want to find out more about the implementation please refer to my [blog post](https://www.gfrigerio.com/pull-down-to-refresh-in-swiftui/)
+
 # License
 
 GFRefreshableScrollView is available under the MIT license. See the LICENSE file for more info.
